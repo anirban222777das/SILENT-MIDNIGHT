@@ -50,24 +50,7 @@ Processor: Intel Core i5 or equivalent
 Memory: 8 GB RAM
 Graphics: NVIDIA GTX 1060 or equivalent (or similar)
 Storage: 2 GB available space
-Feedback
-Your feedback is essential to us! If you encounter any bugs, glitches, or have suggestions for improvement, please don’t hesitate to let us know. Your input will help shape the future of Silent Midnight.
 
-How to Provide Feedback:
-Email:chakrabortyaniket901901@gmail.com
-Feedback Form/Forum: [Feedback link or form here, if available]
-Alternatively, feel free to leave feedback in the game’s community
-Known Issues
-Since this is a prototype, you may come across the following known issues:
-
-Placeholder assets (textures, models, or sounds)
-Some features or mechanics may be unfinished or missing (such as saving/loading, or advanced combat mechanics)
-Potential bugs with enemy AI behavior or pathfinding
-Performance issues on lower-end systems or with certain hardware configurations
-UI glitches or incomplete HUD elements
-Please report any additional bugs or issues you encounter to help us improve the game.
-
-Contact
 For any inquiries or support, feel free to contact us:
 Thank you for your interest in Silent Midnight and for helping us make it even better!
 Stay cautious, keep your wits about you, and remember: in Silent Midnight, the darkness is your only enemy.
